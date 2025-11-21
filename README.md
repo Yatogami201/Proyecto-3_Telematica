@@ -119,16 +119,6 @@ API Gateway recibe peticiones y las dirige a Lambda API
 
 Lambda API ejecuta consultas Athena y devuelve resultados JSON
 
-## Estructura de Datos
-
-S3 Buckets:
-├── my-covid-samuelv01-raw/
-│   └── raw/minsal/              # JSON originales
-│   └── rds_simulated/           # CSV datos demográficos
-├── my-covid-samuelv01-trusted/
-│   └── trusted/covid_joined/    # CSV procesados
-└── my-covid-samuelv01-athena-results/
-    └── query-results/           # Resultados Athena
 # Via API REST
 curl -X GET "https://bj35dohnbi.execute-api.us-west-1.amazonaws.com/prod/covid-stats"
 
