@@ -4,6 +4,10 @@
 #
 # Profesor: Edwin Nelson Montoya Múnera, emontoya@eafit.brightspace.com
 #
+Link al video
+https://www.youtube.com/watch?v=6EEorCzhlBg
+
+--(Los archivos del repositorio son datos generales usados durante el desarrollo, no son los específicos para replicar la aplicación ya que se modificaron a medida que se trabajó directamente en aws)
 
 # Proyecto 3 Telemática - Pipeline de Datos COVID Colombia
 #
